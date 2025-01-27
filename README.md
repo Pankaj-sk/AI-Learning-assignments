@@ -1,3 +1,3 @@
 # AI-Learning-assignments
 
-## Assignment session 6 & 7
+### Assignment session 6 & 7
